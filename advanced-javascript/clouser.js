@@ -7,7 +7,6 @@ function createClouser() {
         return count;
     }
 }
-
 // createClouser funksiyasi chaqirilganda, count o'zgaruvchisi 0 ga teng bo'ladi.
 // createClouser funksiyasi anonim funksiya qaytaradi.
 // Anonim funksiya count o'zgaruvchisiga kirish imkoniyatiga ega va uning qiymatini oshiradi.
@@ -116,4 +115,4 @@ const factorial = memoize(function (n) {
 // 5 * 4 * 3 * 2 * 1
 console.log(factorial(5)); // 120
 console.log(factorial(6)); // 720
-console.log(factorial(7)); // 720
+console.log(factorial(7)); // 5040
