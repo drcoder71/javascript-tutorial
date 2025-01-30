@@ -4,3 +4,4 @@ Javacript dasturlash tilini GitHub Copilot yordamida mustahkamlab bilimni oshiri
 
 1. Basic
 2. Advanced
+3. Regex
